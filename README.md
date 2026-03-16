@@ -153,7 +153,6 @@ Table: **items**
 1. Clone Repository
 
 ```
-
 git clone <repository-url>
 ```
 
