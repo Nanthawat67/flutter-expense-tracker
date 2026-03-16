@@ -1,16 +1,36 @@
-# flutter_expense_tracker
+ชื่อโปรเจค
+แอปบันทึกสินค้าในตู้เย็น
 
-A new Flutter project.
+ผู้พัฒนา
+นันทวัฒน์ แซ่ย่าง
+รหัส 67543210034-4
 
-## Getting Started
+รายละเอียด
+แอปสำหรับบันทึกอาหารในตู้เย็นและตรวจสอบวันหมดอายุ
 
-This project is a starting point for a Flutter application.
+ฟีเจอร์
+- เพิ่มสินค้า
+- แก้ไขสินค้า
+- ลบสินค้า
+- ค้นหาสินค้า
+- กรองตามประเภท
+- Dashboard สรุปข้อมูล
 
-A few resources to get you started if this is your first Flutter project:
+Dashboard
+- จำนวนทั้งหมด
+- ใกล้หมดอายุ
+- หมดอายุแล้ว
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+เทคโนโลยีที่ใช้
+Flutter
+Provider
+SQLite (sqflite)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Packages
+provider
+sqflite
+intl
+
+วิธีรัน
+flutter pub get
+flutter run
