@@ -179,10 +179,19 @@ flutter run
 
 # ตัวอย่างหน้าจอการทำงาน (Screenshots)
 
-* หน้า Dashboard
-* หน้าแสดงรายการสินค้า
-* หน้าเพิ่มสินค้า
-* หน้ารายละเอียดสินค้า
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### รายการสินค้า
+![List](screenshots/list.png)
+
+### เพิ่มสินค้า
+![Add](screenshots/add.png)
+
+### รายละเอียดสินค้า
+![Detail](screenshots/detail.png)
 
 ---
 
